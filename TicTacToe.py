@@ -100,8 +100,6 @@ def isBoardFull(board):
 
 #Running the game
 
-print('It is TIC TAC TOE time!')
-
 while True:
     board = [''] * 9
     PLAYERLETTER = 'X'
